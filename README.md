@@ -12,7 +12,8 @@
 <p align="center">
   <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></code>
   <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
-  <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg"></code>
+  <code><img title="Visual Studio" height="75" src="https://github.com/user-attachments/assets/9823ffd6-0ec3-4ebb-90bc-58dd825c3fc6"></code>
+"></code>
 </p>
 
 ## 📚・Langue
