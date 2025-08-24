@@ -4,6 +4,11 @@
 </div>
 
 <div align="center">
+  <h1> 👻~ Qui suis-je </h1>
+  Je suis un jeune développeur de l'ombre, qui espère pouvoir, un jour, se faire une grande place dans le développement informatique.
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheArobase&locale=fr&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats Graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheArobase&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="Languages Graph">
 </div>
