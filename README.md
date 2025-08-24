@@ -1,6 +1,8 @@
-![](https://komarev.com/ghpvc/?username=TheArobase&color=001f42)
+<h1> 📞~ Contact </h1>
 
-## 🔍・Statistique GitHub
+<div align="center">
+  <img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/959b5a0a-37f7-44eb-9a63-5069dd722d54" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheArobase&locale=fr&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats Graph">
@@ -30,3 +32,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+![](https://komarev.com/ghpvc/?username=TheArobase&color=001f42)
