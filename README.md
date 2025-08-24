@@ -19,7 +19,7 @@
 
 <p align="center">
   <code><img title="CSharp" height="75" src="https://github.com/user-attachments/assets/fb95bec0-3ac7-4eb7-86f7-30395602b670"></code>
-  <code><img title="Js" height="75" src="https://github.com/user-attachments/assets/f73e4ee0-8eaf-4f40-9478-9b85bfb6cbf4"></code>
+  <code><img title="Js" height="75" src="https://github.com/user-attachments/assets/28b6bc5a-7356-4180-bb6a-1c71babdfac4"></code>
   <code><img title="Python" height="75" src="https://github.com/user-attachments/assets/deb0cefb-5615-4255-9755-c95b5ac27697"></code>
 </p>
 
