@@ -2,6 +2,8 @@
 
 <div align="center">
   <a href="https://discord.gg/SDrx8r9D9U"><img title="Discord" height="100" alt="image" src="https://github.com/user-attachments/assets/959b5a0a-37f7-44eb-9a63-5069dd722d54"/></a>
+  <a href="https://discord.gg/1338162662210666568"><img title="MP" height="100" alt="image" src="https://github.com/user-attachments/assets/1cbddcda-f6df-4a37-b21f-336356024b49"/></a>
+
 </div>
 
 <div align="center">
