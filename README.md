@@ -1,7 +1,7 @@
 <h1> 📞~ Contact </h1>
 
 <div align="center">
-  <img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/959b5a0a-37f7-44eb-9a63-5069dd722d54" />
+  <img  height="75" alt="image" src="https://github.com/user-attachments/assets/959b5a0a-37f7-44eb-9a63-5069dd722d54" />
 </div>
 
 <div align="center">
