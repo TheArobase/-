@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1> 👻~ Qui suis-je </h1>
-  Je suis un jeune développeur de l'ombre, qui espère pouvoir, un jour, se faire une grande place dans le développement informatique.
+  Je suis un jeune développeur de l'ombre, qui espère pouvoir, un jour, se faire une grande place dans le développement informatique. Alors aidez-moi et soutenez-moi car je ne compte pas m'arrêter à de simples plugins Nova - Life !
 </div>
 
 <div align="center">
