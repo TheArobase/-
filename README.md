@@ -20,7 +20,7 @@
 <p align="center">
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title=".NET" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
-  <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+  <code><img title="Python" height="75" src="https://github.com/user-attachments/assets/deb0cefb-5615-4255-9755-c95b5ac27697"></code>
 </p>
 
 ##
