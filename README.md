@@ -10,7 +10,7 @@
 ## 🔧・Outils
 
 <p align="center">
-  <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></code>
+  <code><img title="Visual Studio" height="75" src="https://github.com/user-attachments/assets/7a3675d6-7613-4db0-9070-e82124077114"></code>
   <code><img title="Visual Studio Code" height="75" src="https://github.com/user-attachments/assets/70ecc7f2-4060-42ba-87fd-3e017436b857"></code>
   <code><img title="Unity" height="75" src="https://github.com/user-attachments/assets/9823ffd6-0ec3-4ebb-90bc-58dd825c3fc6"></code>
 </p>
